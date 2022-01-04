@@ -7,4 +7,5 @@ The following algorithms are implemented
 2. QR decomposition
 3. LU decomposition
 4. jacobi iterative method. https://en.wikipedia.org/wiki/Jacobi_method
-5. Power and rayleigh quotient method for calculating eigenvalues. https://en.wikipedia.org/wiki/Power_iteration https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration
+5. Power method for calculating the dominant eigenvector. https://en.wikipedia.org/wiki/Power_iteration 
+6. Rayleigh quotient method to find the dominant eigenvalue. https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration
